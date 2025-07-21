@@ -1,0 +1,262 @@
+2025-07-21 05:59:07,225 - ERROR - error on row 1(unknown):as 'name'
+2025-07-21 05:59:07,280 - ERROR - error on row 2(unknown):as 'name'
+2025-07-21 05:59:07,336 - ERROR - error on row 3(unknown):as 'name'
+2025-07-21 05:59:07,388 - ERROR - error on row 4(unknown):as 'name'
+2025-07-21 05:59:07,448 - ERROR - error on row 5(unknown):as 'name'
+2025-07-21 05:59:07,499 - ERROR - error on row 6(unknown):as 'name'
+2025-07-21 05:59:07,540 - ERROR - error on row 7(unknown):as 'name'
+2025-07-21 05:59:09,863 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:00:23,619 - ERROR - error on row 1(unknown):as 'name'
+2025-07-21 06:00:23,665 - ERROR - error on row 2(unknown):as 'name'
+2025-07-21 06:00:23,704 - ERROR - error on row 3(unknown):as 'name'
+2025-07-21 06:00:23,744 - ERROR - error on row 4(unknown):as 'name'
+2025-07-21 06:00:23,806 - ERROR - error on row 5(unknown):as 'name'
+2025-07-21 06:00:23,851 - ERROR - error on row 6(unknown):as 'name'
+2025-07-21 06:00:23,906 - ERROR - error on row 7(unknown):as 'name'
+2025-07-21 06:00:27,170 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:02:26,011 - ERROR - error on row 1(unknown):as 'name'
+2025-07-21 06:02:26,066 - ERROR - error on row 2(unknown):as 'name'
+2025-07-21 06:02:26,116 - ERROR - error on row 3(unknown):as 'name'
+2025-07-21 06:02:26,159 - ERROR - error on row 4(unknown):as 'name'
+2025-07-21 06:02:26,212 - ERROR - error on row 5(unknown):as 'name'
+2025-07-21 06:02:26,251 - ERROR - error on row 6(unknown):as 'name'
+2025-07-21 06:02:26,294 - ERROR - error on row 7(unknown):as 'name'
+2025-07-21 06:02:28,567 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:04:24,887 - ERROR - error on row 1(unknown):as 'name'
+2025-07-21 06:04:24,947 - ERROR - error on row 2(unknown):as 'name'
+2025-07-21 06:04:24,991 - ERROR - error on row 3(unknown):as 'name'
+2025-07-21 06:04:25,033 - ERROR - error on row 4(unknown):as 'name'
+2025-07-21 06:04:25,096 - ERROR - error on row 5(unknown):as 'name'
+2025-07-21 06:04:25,135 - ERROR - error on row 6(unknown):as 'name'
+2025-07-21 06:04:25,177 - ERROR - error on row 7(unknown):as 'name'
+2025-07-21 06:04:27,438 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:09:39,271 - ERROR - error on row 1(Hamza):as 'city'
+2025-07-21 06:09:39,841 - ERROR - error on row 2(Qayoom):as 'city'
+2025-07-21 06:09:40,476 - ERROR - error on row 3(anas):as 'city'
+2025-07-21 06:09:41,085 - ERROR - error on row 4(Hassan):as 'city'
+2025-07-21 06:09:41,891 - ERROR - error on row 5(Hadi):as 'city'
+2025-07-21 06:09:42,480 - ERROR - error on row 6(nimra):as 'city'
+2025-07-21 06:09:43,168 - ERROR - error on row 7(zarnab):as 'city'
+2025-07-21 06:09:46,776 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:10:16,482 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:10:21,596 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:10:26,792 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:10:31,844 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:10:36,991 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:10:41,711 - ERROR - error on row 6(nimra):as Message: Could not locate element with visible text: karachi ; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:10:42,526 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:10:49,962 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:15:13,045 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:15:17,866 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:15:22,802 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:15:27,890 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:15:33,031 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:15:38,000 - ERROR - error on row 6(nimra):as Message: Could not locate element with visible text: karachi ; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:15:38,719 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:15:45,129 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:17:52,912 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:17:58,023 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:18:03,126 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:18:08,173 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:18:13,295 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:18:18,624 - INFO - Submitted Sucessfully fornimra
+2025-07-21 06:18:23,695 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:18:31,127 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:19:22,686 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:19:27,814 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:19:32,916 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:19:37,704 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:19:43,047 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:19:48,363 - INFO - Submitted Sucessfully fornimra
+2025-07-21 06:19:53,383 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:19:59,798 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:20:37,784 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:20:42,971 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:20:47,857 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:20:52,878 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:20:58,086 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:21:03,101 - INFO - Submitted Sucessfully fornimra
+2025-07-21 06:21:08,191 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:21:14,635 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:22:44,623 - ERROR - error on row 1(Hamza):as Message: Could not locate element with visible text: karachi; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:45,190 - ERROR - error on row 2(Qayoom):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:45,797 - ERROR - error on row 3(anas):as Message: Could not locate element with visible text: lahore; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:46,389 - ERROR - error on row 4(Hassan):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:46,998 - ERROR - error on row 5(Hadi):as Message: Could not locate element with visible text: lahore; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:47,740 - ERROR - error on row 6(nimra):as Message: Could not locate element with visible text: karachi; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:48,390 - ERROR - error on row 7(zarnab):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:22:50,685 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:23:55,854 - ERROR - error on row 1(Hamza):as Message: Could not locate element with visible text: karachi; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:56,457 - ERROR - error on row 2(Qayoom):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:57,096 - ERROR - error on row 3(anas):as Message: Could not locate element with visible text: lahore; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:57,720 - ERROR - error on row 4(Hassan):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:58,354 - ERROR - error on row 5(Hadi):as Message: Could not locate element with visible text: lahore; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:58,977 - ERROR - error on row 6(nimra):as Message: Could not locate element with visible text: karachi; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:23:59,591 - ERROR - error on row 7(zarnab):as Message: Could not locate element with visible text: Hyd; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+
+2025-07-21 06:24:01,844 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:25:17,851 - INFO - Submitted Sucessfully forHamza
+2025-07-21 06:25:22,666 - INFO - Submitted Sucessfully forQayoom
+2025-07-21 06:25:27,597 - INFO - Submitted Sucessfully foranas
+2025-07-21 06:25:32,599 - INFO - Submitted Sucessfully forHassan
+2025-07-21 06:25:37,842 - INFO - Submitted Sucessfully forHadi
+2025-07-21 06:25:42,666 - INFO - Submitted Sucessfully fornimra
+2025-07-21 06:25:47,783 - INFO - Submitted Sucessfully forzarnab
+2025-07-21 06:25:54,196 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:34:16,867 - ERROR - error on row 1(Hamza):as ': name'
+2025-07-21 06:34:17,615 - ERROR - error on row 2(Qayoom):as ': name'
+2025-07-21 06:34:18,295 - ERROR - error on row 3(anas):as ': name'
+2025-07-21 06:34:18,353 - ERROR - error on row 4(Hassan):as Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="name"]"}
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6eedae965+77845]
+	GetHandleVerifier [0x0x7ff6eedae9c0+77936]
+	(No symbol) [0x0x7ff6eeb69cda]
+	(No symbol) [0x0x7ff6eebc06aa]
+	(No symbol) [0x0x7ff6eebc095c]
+	(No symbol) [0x0x7ff6eec13d07]
+	(No symbol) [0x0x7ff6eebe890f]
+	(No symbol) [0x0x7ff6eec10b07]
+	(No symbol) [0x0x7ff6eebe86a3]
+	(No symbol) [0x0x7ff6eebb1791]
+	(No symbol) [0x0x7ff6eebb2523]
+	GetHandleVerifier [0x0x7ff6ef08687d+3059501]
+	GetHandleVerifier [0x0x7ff6ef080c3d+3035885]
+	GetHandleVerifier [0x0x7ff6ef0a0430+3164896]
+	GetHandleVerifier [0x0x7ff6eedc8c6e+185118]
+	GetHandleVerifier [0x0x7ff6eedd057f+216111]
+	GetHandleVerifier [0x0x7ff6eedb7314+113092]
+	GetHandleVerifier [0x0x7ff6eedb74c9+113529]
+	GetHandleVerifier [0x0x7ff6eed9e2c8+10616]
+	BaseThreadInitThunk [0x0x7ffe5fa57374+20]
+	RtlUserThreadStart [0x0x7ffe60ebcc91+33]
+
+2025-07-21 06:34:19,107 - ERROR - error on row 5(Hadi):as ': name'
+2025-07-21 06:34:19,154 - ERROR - error on row 6(nimra):as Message: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.158); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6eedae965+77845]
+	GetHandleVerifier [0x0x7ff6eedae9c0+77936]
+	(No symbol) [0x0x7ff6eeb69cda]
+	(No symbol) [0x0x7ff6eeb800f4]
+	(No symbol) [0x0x7ff6eeb7ebc3]
+	(No symbol) [0x0x7ff6eeb723d9]
+	(No symbol) [0x0x7ff6eeb7028f]
+	(No symbol) [0x0x7ff6eeb7471c]
+	(No symbol) [0x0x7ff6eeb747ef]
+	(No symbol) [0x0x7ff6eebc289d]
+	(No symbol) [0x0x7ff6eebb598e]
+	(No symbol) [0x0x7ff6eebe88ca]
+	(No symbol) [0x0x7ff6eebb2f76]
+	(No symbol) [0x0x7ff6eebe8ae0]
+	(No symbol) [0x0x7ff6eec10b07]
+	(No symbol) [0x0x7ff6eebe86a3]
+	(No symbol) [0x0x7ff6eebb1791]
+	(No symbol) [0x0x7ff6eebb2523]
+	GetHandleVerifier [0x0x7ff6ef08687d+3059501]
+	GetHandleVerifier [0x0x7ff6ef080c3d+3035885]
+	GetHandleVerifier [0x0x7ff6ef0a0430+3164896]
+	GetHandleVerifier [0x0x7ff6eedc8c6e+185118]
+	GetHandleVerifier [0x0x7ff6eedd057f+216111]
+	GetHandleVerifier [0x0x7ff6eedb7314+113092]
+	GetHandleVerifier [0x0x7ff6eedb74c9+113529]
+	GetHandleVerifier [0x0x7ff6eed9e2c8+10616]
+	BaseThreadInitThunk [0x0x7ffe5fa57374+20]
+	RtlUserThreadStart [0x0x7ffe60ebcc91+33]
+
+2025-07-21 06:34:19,894 - ERROR - error on row 7(zarnab):as ': name'
+2025-07-21 06:34:23,217 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:34:56,535 - INFO - Submitted Sucessfully for : Hamza
+2025-07-21 06:35:01,480 - INFO - Submitted Sucessfully for : Qayoom
+2025-07-21 06:35:06,417 - INFO - Submitted Sucessfully for : anas
+2025-07-21 06:35:11,571 - INFO - Submitted Sucessfully for : Hassan
+2025-07-21 06:35:16,804 - INFO - Submitted Sucessfully for : Hadi
+2025-07-21 06:35:22,008 - INFO - Submitted Sucessfully for : nimra
+2025-07-21 06:35:27,063 - INFO - Submitted Sucessfully for : zarnab
+2025-07-21 06:35:33,521 - INFO - Form Submission Script Sucessfully
+2025-07-21 06:36:33,020 - INFO - Submitted Sucessfully for : Hamza
+2025-07-21 06:36:38,096 - INFO - Submitted Sucessfully for : Qayoom
+2025-07-21 06:36:43,355 - INFO - Submitted Sucessfully for : anas
+2025-07-21 06:36:48,455 - INFO - Submitted Sucessfully for : Hassan
+2025-07-21 06:36:53,646 - INFO - Submitted Sucessfully for : Hadi
+2025-07-21 06:36:58,786 - INFO - Submitted Sucessfully for : nimra
+2025-07-21 06:37:03,821 - INFO - Submitted Sucessfully for : zarnab
+2025-07-21 06:37:10,253 - INFO - Form Submission Script Sucessfully
+2025-07-21 10:06:45,074 - ERROR - error on row 1(Hamza):as 'contactno'
+2025-07-21 10:06:45,565 - ERROR - error on row 2(Qayoom):as 'contactno'
+2025-07-21 10:06:46,076 - ERROR - error on row 3(anas):as 'contactno'
+2025-07-21 10:06:46,575 - ERROR - error on row 4(Hassan):as 'contactno'
+2025-07-21 10:06:47,139 - ERROR - error on row 5(Hadi):as 'contactno'
+2025-07-21 10:06:47,656 - ERROR - error on row 6(nimra):as 'contactno'
+2025-07-21 10:06:48,197 - ERROR - error on row 7(zarnab):as 'contactno'
+2025-07-21 10:06:50,510 - INFO - Form Submission Script Sucessfully
+2025-07-21 10:08:18,524 - ERROR - error on row 1(Hamza):as 'contactno'
+2025-07-21 10:08:19,023 - ERROR - error on row 2(Qayoom):as 'contactno'
+2025-07-21 10:08:19,547 - ERROR - error on row 3(anas):as 'contactno'
+2025-07-21 10:08:20,090 - ERROR - error on row 4(Hassan):as 'contactno'
+2025-07-21 10:08:20,608 - ERROR - error on row 5(Hadi):as 'contactno'
+2025-07-21 10:08:22,423 - ERROR - error on row 6(nimra):as ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-21 10:08:26,493 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA3BA40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f/element
+2025-07-21 10:08:30,563 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA3BE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f/element
+2025-07-21 10:08:34,624 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA7C080>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f/element
+2025-07-21 10:08:38,704 - ERROR - error on row 7(zarnab):as HTTPConnectionPool(host='localhost', port=50426): Max retries exceeded with url: /session/f538bdff329af5fdbb56731cf8ea892f/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA7C2C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21 10:08:42,786 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA7C560>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f
+2025-07-21 10:08:46,875 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA7C6B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f
+2025-07-21 10:08:50,932 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001AA8FA7C860>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/f538bdff329af5fdbb56731cf8ea892f
+2025-07-21 10:08:55,009 - INFO - Form Submission Script Sucessfully
+2025-07-21 10:09:38,337 - ERROR - error on row 1(Hamza):as 'contactno'
+2025-07-21 10:09:38,827 - ERROR - error on row 2(Qayoom):as 'contactno'
+2025-07-21 10:09:39,361 - ERROR - error on row 3(anas):as 'contactno'
+2025-07-21 10:09:40,016 - ERROR - error on row 4(Hassan):as 'contactno'
+2025-07-21 10:09:41,189 - ERROR - error on row 5(Hadi):as ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-21 10:09:45,247 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47CEBD40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:09:49,398 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47CEBE00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:09:53,465 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:09:57,558 - ERROR - error on row 6(nimra):as HTTPConnectionPool(host='localhost', port=50466): Max retries exceeded with url: /session/cbf80ecef63c50c48910ac43c1ae7b2d/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C290>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21 10:10:01,637 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C5F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:10:05,718 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C7D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:10:09,790 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d/element
+2025-07-21 10:10:13,856 - ERROR - error on row 7(zarnab):as HTTPConnectionPool(host='localhost', port=50466): Max retries exceeded with url: /session/cbf80ecef63c50c48910ac43c1ae7b2d/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2CC20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-07-21 10:10:17,919 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2C560>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d
+2025-07-21 10:10:22,001 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2D010>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d
+2025-07-21 10:10:26,058 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000013D47D2D1C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/cbf80ecef63c50c48910ac43c1ae7b2d
+2025-07-21 10:10:30,135 - INFO - Form Submission Script Sucessfully
+2025-07-21 10:13:13,985 - INFO - Submitted Sucessfully for : Hamza
+2025-07-21 10:13:19,185 - INFO - Submitted Sucessfully for : Qayoom
+2025-07-21 10:13:24,244 - INFO - Submitted Sucessfully for : anas
+2025-07-21 10:13:29,596 - INFO - Submitted Sucessfully for : Hassan
+2025-07-21 10:13:34,898 - INFO - Submitted Sucessfully for : Hadi
+2025-07-21 10:13:40,290 - INFO - Submitted Sucessfully for : nimra
+2025-07-21 10:13:45,553 - INFO - Submitted Sucessfully for : zarnab
+2025-07-21 10:13:52,025 - INFO - Form Submission Script Sucessfully
+2025-07-21 10:14:36,036 - INFO - Submitted Sucessfully for : Hamza
+2025-07-21 10:14:41,295 - INFO - Submitted Sucessfully for : Qayoom
+2025-07-21 10:14:46,320 - INFO - Submitted Sucessfully for : anas
+2025-07-21 10:14:51,593 - INFO - Submitted Sucessfully for : Hassan
+2025-07-21 10:14:57,017 - INFO - Submitted Sucessfully for : Hadi
+2025-07-21 10:15:02,318 - INFO - Submitted Sucessfully for : nimra
+2025-07-21 10:15:07,572 - INFO - Submitted Sucessfully for : zarnab
+2025-07-21 10:15:13,980 - INFO - Form Submission Script Sucessfully
+2025-07-21 11:24:45,161 - INFO - Submitted Sucessfully for : Hamza
+2025-07-21 11:24:50,451 - INFO - Submitted Sucessfully for : Qayoom
+2025-07-21 11:24:55,565 - INFO - Submitted Sucessfully for : anas
+2025-07-21 11:25:00,837 - INFO - Submitted Sucessfully for : Hassan
+2025-07-21 11:25:06,238 - INFO - Submitted Sucessfully for : Hadi
+2025-07-21 11:25:11,568 - INFO - Submitted Sucessfully for : nimra
+2025-07-21 11:25:16,845 - INFO - Submitted Sucessfully for : zarnab
+2025-07-21 11:25:23,340 - INFO - Form Submission Script Sucessfully
