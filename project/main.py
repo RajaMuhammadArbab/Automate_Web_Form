@@ -3,8 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
+import os
 import time
 import logging
+
 
 
 logging.basicConfig(
@@ -12,7 +14,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
-
 
 try :     
     data = pd.read_csv("form_data.csv")
@@ -24,22 +25,26 @@ except Exception as e:
 service = Service(executable_path="chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
-driver.get("file://" + __import__('os').path.abspath("form.html"))
+form_path = os.path.abspath("form.html")
+driver.get(f"file://{form_path}")
 
 
 for index , row in data.iterrows():
     try:
            
-        driver.find_element(By.NAME ,'name').clear()
+        driver.find_element(By.NAME,'name').clear()
         driver.find_element(By.NAME,'name').send_keys(row["name"])
 
-        driver.find_element(By.NAME ,'email').clear()    
+        driver.find_element(By.NAME,'email').clear()    
         driver.find_element(By.NAME,'email').send_keys(row["email"])
 
-        driver.find_element(By.NAME ,'address').clear()
+        driver.find_element(By.NAME, 'contactno').clear()
+        driver.find_element(By.NAME, 'contactno').send_keys(row["contactno"])
+        
+        driver.find_element(By.NAME,'address').clear()
         driver.find_element(By.NAME,'address').send_keys(row["address"])
         
-        
+               
         gender = row["gender"].strip().lower()
         if gender == "male":
             driver.find_element(By.ID,"gender_male").click()        
@@ -51,7 +56,6 @@ for index , row in data.iterrows():
         if row ["subscribe"].strip().lower() =="yes":
             if not subcribe_checkbox.is_selected:
                 subcribe_checkbox.click()
-                
         else:
             if subcribe_checkbox.is_selected():
                 subcribe_checkbox.click()
@@ -63,10 +67,11 @@ for index , row in data.iterrows():
         
         driver.find_element(By.XPATH,"//button[@type='submit']").click()
         
+        
         logging.info(f"Submitted Sucessfully for : {row ['name']}")
         time.sleep(2)
         
-        driver.get("file://" + __import__('os').path.abspath("form.html"))
+        driver.get(f"file://{form_path}")
         time.sleep(2)
         
     except Exception as e:
